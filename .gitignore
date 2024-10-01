@@ -7,3 +7,5 @@ photos/motion/
 photos/**/*.jpg
 secret_words.txt
 naturalearthdata
+*.png
+ERA5_Temperature_TimeSeries_NY_eastcoast.tif
